@@ -1,4 +1,4 @@
 server:
   port: 7777
 application:
-  allow-get-accounts: flase
+  allow-get-accounts: false
